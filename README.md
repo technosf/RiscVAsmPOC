@@ -6,6 +6,7 @@
 The ASM routine, moves the pointer dereference value to the output and replaces it with the passed in variable. 
 C then displays the value of the output.
 
+## Output
 ```
 Calling the ASM C header with values
 	In1: 0x00000011 	In2: 0x00000022 	Out: 0000000000
